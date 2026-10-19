@@ -28,6 +28,7 @@
 
 - [jq](https://github.com/jqlang/jq) - Lightweight and flexible command-line JSON processor.
 - [fx](https://github.com/antonmedv/fx) - Terminal JSON viewer and processor.
+- [Glim](https://github.com/NeoPanic/Glim) - Open-source macOS file viewer with JSON trees, CSV tables and read-only SQLite inspection.
 
 ## Encoding / Decoding
 
